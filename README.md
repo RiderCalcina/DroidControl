@@ -7,6 +7,8 @@
 
 **DroidControl** es una interfaz gráfica (GUI) ligera y elegante diseñada específicamente para potenciar el uso de **[scrcpy](https://github.com/Genymobile/scrcpy)**. Permite controlar y visualizar tus dispositivos Android desde el PC con un solo clic, eliminando la complejidad de la consola de comandos.
 
+![Interfaz de DroidControl](interfaz.jpg)
+
 ---
 
 ## 🚀 ¿Por qué DroidControl?
