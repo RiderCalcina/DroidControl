@@ -2,7 +2,7 @@
 
 Todos los cambios notables en este proyecto serán documentados en este archivo.
 
-## [1.3.0] - 2026-05-04
+## [1.3.0] - 2026-05-03
 
 ### Añadido
 - **Tooltips Flotantes**: Sistema de ayuda contextual dinámica que aparece sobre los controles al pasar el mouse, eliminando la necesidad de una barra de estado fija.
@@ -17,7 +17,7 @@ Todos los cambios notables en este proyecto serán documentados en este archivo.
 ### Corregido
 - **Audio en Grabaciones**: Solucionado el problema donde algunos equipos grababan video sin sonido al utilizar códecs de compresión incompatibles con el hardware móvil.
 
-## [1.2.0] - 2026-05-04
+## [1.2.0] - 2026-02-14
 
 ### Añadido
 - **Diseño por Bloques**: Interfaz reorganizada en tres secciones delimitadas (Dispositivo, WiFi, Controles) para mayor claridad visual.
@@ -29,7 +29,7 @@ Todos los cambios notables en este proyecto serán documentados en este archivo.
 - **Claridad de Estado**: La etiqueta de dispositivo ahora indica explícitamente "SIN CONEXIÓN USB" para evitar confusiones en modo WiFi.
 - **Estabilidad WiFi**: Corregido error crítico que bloqueaba el botón de conexión tras un fallo o desconexión; ahora el estado se reinicia correctamente.
 
-## [1.1.0] - 2026-05-04
+## [1.1.0] - 2025-11-04
 
 ### Añadido
 - **Conexión WiFi**: Nueva interfaz para conectar dispositivos de forma inalámbrica mediante IP y Puerto.
@@ -43,7 +43,7 @@ Todos los cambios notables en este proyecto serán documentados en este archivo.
 - **Interfaz de Usuario**: Reorganización de botones para un flujo de trabajo más lógico (Guardar, Abrir, Espejo, Capturar, Grabar).
 - **Optimización**: Mejoras en la detección de dispositivos y gestión de procesos en segundo plano.
 
-## [1.0.0] - 2026-05-01
+## [1.0.0] - 2025-08-11
 
 ### Añadido
 - Lanzamiento inicial de DroidControl.

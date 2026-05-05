@@ -21,11 +21,12 @@ La interfaz se divide en tres bloques principales diseñados para ser compactos 
 ### 3. Bloque de Controles (Gestión y Captura)
 *   **💾 GUARDAR**: Permite seleccionar la carpeta donde se guardarán las capturas de pantalla y las grabaciones.
 *   **📁 ABRIR**: Abre instantáneamente la carpeta de salida en el explorador de archivos de Windows.
-*   **📸 CAPTURAR**: Toma una foto de la pantalla actual del dispositivo y la guarda como `.png`. El botón cambiará a un check verde (`✅ ¡LISTO!`) al completar la acción.
+*   **📸 CAPTURAR**: Toma una foto de la pantalla actual del dispositivo y la guarda como `.png`. 
+
 *   **🎥 GRABAR**: Inicia o detiene la grabación de video. 
     *   Si el dispositivo tiene **Android 11 o superior**, se intentará grabar audio automáticamente.
     *   Los videos se guardan en formato `.mkv` para asegurar la compatibilidad y calidad.
-*   **ℹ️ INFO**: Enlace directo a la documentación oficial y créditos del desarrollador.
+*   **ℹ️ INFO**: Créditos del desarrollador.
 
 ---
 
@@ -49,7 +50,6 @@ La interfaz se divide en tres bloques principales diseñados para ser compactos 
 
 ### 2. Error al conectar por WiFi
 *   El PC y el dispositivo Android deben estar en la **misma red WiFi**.
-*   Primero debes conectar el dispositivo por USB una vez y ejecutar `adb tcpip 5555` (esto se suele hacer automáticamente, pero puede fallar en algunos modelos).
 
 ### 3. No se escucha el audio al grabar
 *   La grabación de audio nativa a través de `scrcpy` requiere **Android 11 (API 30)** o superior.
