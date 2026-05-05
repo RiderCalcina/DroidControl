@@ -13,7 +13,7 @@
 
 ## 🚀 ¿Por qué DroidControl?
 
-Aunque `scrcpy` es la herramienta más potente para el mirroring de Android, su uso a través de la terminal puede ser tedioso para muchos usuarios. **DroidControl** actúa como un panel de control intuitivo que centraliza las funciones más utilizadas en una ventana ultra-compacta de solo **145px** de altura.
+Aunque `scrcpy` es la herramienta más potente para el mirroring de Android, su uso a través de la terminal puede ser tedioso para muchos usuarios. **DroidControl** actúa como un panel de control intuitivo que centraliza las funciones más utilizadas en una ventana ultra-compacta.
 
 ---
 
@@ -30,7 +30,7 @@ Aunque `scrcpy` es la herramienta más potente para el mirroring de Android, su 
 - **Capturas de Pantalla**: Toma fotos instantáneas de la pantalla en formato `.png`.
 
 ### 🎨 Experiencia de Usuario Premium
-- **Diseño Minimalista**: Interfaz oscura profesional con efectos de animación "Pulse".
+- **Diseño Minimalista**: Interfaz oscura.
 - **Tooltips Dinámicos**: Ayuda contextual al pasar el ratón por cada botón.
 - **Atajos de Teclado**: Controla la aplicación sin soltar el teclado.
 
